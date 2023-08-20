@@ -5,7 +5,7 @@ randomArt = random.randint(1,3)
 ART = 'artwork-'+str(randomArt)+'.jpg'
 ICON = 'icon-default.png'
 
-XNXX_BASE = 'http://www.xnxx.com'
+XNXX_BASE = 'http://www.exxxtra.net'
 XNXX_VIDEO = 'http://video.xnxx.com'
 XNXX_NEW = 'http://video.xnxx.com/new/%s/'
 XNXX_BESTOF = 'http://video.xnxx.com/best/%s/'
